@@ -1,0 +1,15 @@
+E:\College\semester 4\KPL\MOD 4\tpmodul3_1302210027\tpmodul3_1302210027\bin\Debug\net6.0\tpmodul3_1302210027..exe
+E:\College\semester 4\KPL\MOD 4\tpmodul3_1302210027\tpmodul3_1302210027\bin\Debug\net6.0\tpmodul3_1302210027..deps.json
+E:\College\semester 4\KPL\MOD 4\tpmodul3_1302210027\tpmodul3_1302210027\bin\Debug\net6.0\tpmodul3_1302210027..runtimeconfig.json
+E:\College\semester 4\KPL\MOD 4\tpmodul3_1302210027\tpmodul3_1302210027\bin\Debug\net6.0\tpmodul3_1302210027..dll
+E:\College\semester 4\KPL\MOD 4\tpmodul3_1302210027\tpmodul3_1302210027\bin\Debug\net6.0\tpmodul3_1302210027..pdb
+E:\College\semester 4\KPL\MOD 4\tpmodul3_1302210027\tpmodul3_1302210027\obj\Debug\net6.0\tpmodul3_1302210027..csproj.AssemblyReference.cache
+E:\College\semester 4\KPL\MOD 4\tpmodul3_1302210027\tpmodul3_1302210027\obj\Debug\net6.0\tpmodul3_1302210027..GeneratedMSBuildEditorConfig.editorconfig
+E:\College\semester 4\KPL\MOD 4\tpmodul3_1302210027\tpmodul3_1302210027\obj\Debug\net6.0\tpmodul3_1302210027..AssemblyInfoInputs.cache
+E:\College\semester 4\KPL\MOD 4\tpmodul3_1302210027\tpmodul3_1302210027\obj\Debug\net6.0\tpmodul3_1302210027..AssemblyInfo.cs
+E:\College\semester 4\KPL\MOD 4\tpmodul3_1302210027\tpmodul3_1302210027\obj\Debug\net6.0\tpmodul3_1302210027..csproj.CoreCompileInputs.cache
+E:\College\semester 4\KPL\MOD 4\tpmodul3_1302210027\tpmodul3_1302210027\obj\Debug\net6.0\tpmodul3_1302210027..dll
+E:\College\semester 4\KPL\MOD 4\tpmodul3_1302210027\tpmodul3_1302210027\obj\Debug\net6.0\refint\tpmodul3_1302210027..dll
+E:\College\semester 4\KPL\MOD 4\tpmodul3_1302210027\tpmodul3_1302210027\obj\Debug\net6.0\tpmodul3_1302210027..pdb
+E:\College\semester 4\KPL\MOD 4\tpmodul3_1302210027\tpmodul3_1302210027\obj\Debug\net6.0\tpmodul3_1302210027..genruntimeconfig.cache
+E:\College\semester 4\KPL\MOD 4\tpmodul3_1302210027\tpmodul3_1302210027\obj\Debug\net6.0\ref\tpmodul3_1302210027..dll
